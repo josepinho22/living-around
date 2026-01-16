@@ -12,13 +12,12 @@ The project features a modern, minimalist design with immersive photography, ref
 ## 🖼️ Preview
 
 👉 **Live demo:**  
-	
 	https://josepinho22.github.io/living-around/index.html
 
 ---
 
 
-### 📸 Capturas de ecrã
+### 📸 Screenshots
 
 **Home Page Overview:**
 
