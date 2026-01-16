@@ -1,12 +1,20 @@
 # 🌍 Living Around
 
-**Living Around** é um website inspirador criado para viajantes e profissionais remotos que desejam viver, trabalhar e explorar o mundo com liberdade.  
-Com um design moderno, minimalista e cheio de fotografias imersivas, o projeto transmite a essência do nomadismo digital: mobilidade, aventura e conexão com novos lugares.
+> **Academic Project**  
+> This project was developed as part of a **teacher-assigned assignment** during my Software Engineering formation.  
+> The objective was to **fully replicate the specifications, structure, and design requirements provided by the instructor**, demonstrating front-end development skills and attention to detail.
+
+**Living Around** is an inspirational website designed for travelers and remote professionals who want to live, work, and explore the world with freedom.  
+The project features a modern, minimalist design with immersive photography, reflecting the values of digital nomadism: mobility, adventure, and discovery.
 
 ---
+
 ## 🖼️ Preview
 
-👉 **Demo online:** https://josepinho22.github.io/Trabalho-Individual/index.html
+👉 **Live demo:**  
+https://josepinho22.github.io/Trabalho-Individual/index.html
+
+---
 
 ### 📸 Capturas de ecrã
 
@@ -31,85 +39,68 @@ Locais:
 ---
 
 
-## 🚐 Principais Funcionalidades
+## 🚐 Key Features
 
-### 🏕️ Acomodações
-Apresenta carrinhas e motorhomes totalmente equipados, perfeitos para quem quer viajar com conforto e autonomia.  
-Cada modelo (como *Hippie Ride* e *Harvest Ride*) inclui:
-- Fotografias em destaque  
-- Preço por dia  
-- Lista de equipamentos (cozinha, cama de casal, WC portátil, carregador USB)  
-- Página detalhada com descrição e vantagens  
+### 🏕️ Accommodations
+- Presentation of fully equipped vans and motorhomes  
+- Daily pricing and equipment details  
+- Individual pages for each model with descriptions and advantages  
 
-### 🌎 Locais
-Permite escolher o país e a cidade para descobrir unidades *Living Around* disponíveis.  
-O mapa interativo (via **Leaflet + OpenStreetMap**) mostra:
-- A localização exata  
-- Endereço e contacto local  
-- Marcador com popup informativo  
+### 🌎 Locations
+- Selection of countries and cities with available units  
+- Interactive map using **Leaflet + OpenStreetMap**  
+- Location markers with address and contact information  
 
-### 🧭 Página Inicial
-Apresenta o título central **“Living Around”** sobre uma estrada entre montanhas — símbolo da liberdade e do movimento.  
-Inclui:
-- Slogan inspirador: *“Viva livre, trabalhe de qualquer lugar, descubra o mundo.”*  
-- Ligações rápidas para plataformas de emprego remoto (Indeed, LinkedIn, JobRemote, GoogleJobs)  
-- Botões de ação como **Descobrir** e **Explorar**, conduzindo o utilizador a novas secções  
+### 🧭 Home Page
+- Central title displayed over a scenic road background  
+- Inspirational slogan: *“Live freely, work from anywhere, discover the world.”*  
+- Quick access to remote job platforms  
+- Call-to-action buttons guiding users through the website  
 
 ### ✍️ Blog
-Espaço dedicado a partilhas, histórias e experiências reais de viagem — com foco em inspiração e lifestyle nómada.  
+- Section dedicated to sharing travel stories and lifestyle inspiration  
 
-### 📬 Contactos
-Formulário de contacto elegante sobre imagem ao pôr do sol, com os campos:
-- Nome  
-- Email  
-- Mensagem  
-Inclui a citação de Aldous Huxley:  
-> “Viajar é descobrir que todos estão errados sobre outros países.”  
+### 📬 Contact
+- Contact form with name, email, and message fields  
+- Background image with an inspirational travel quote  
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 
-- **HTML5** e **CSS3** para estrutura e estilo  
-- **JavaScript** para interatividade  
-- **Leaflet + OpenStreetMap** para o mapa dinâmico  
-- **Google Fonts** para tipografia moderna  
-- **Flexbox e Grid** para layout responsivo  
-- **Hospedagem**: GitHub Pages (ou outro servidor estático)  
-
----
-
-## 🎨 Estilo e Identidade Visual
-
-- **Cores principais:** tons de bege, preto e verde oliva  
-- **Tipografia:** moderna e arredondada, equilibrando leveza e clareza  
-- **Design:** limpo, com grandes imagens e espaços amplos  
-- **Botões e cartões:** cantos arredondados, bordas finas e sombras suaves  
+- **HTML5** and **CSS3**
+- **JavaScript**
+- **Leaflet + OpenStreetMap**
+- **Google Fonts**
+- **Flexbox** and **CSS Grid**
+- **Hosting:** GitHub Pages
 
 ---
 
-## 🚀 Como Usar
+## 🚀 How to Run Locally
 
-1. Clonar o repositório:
+1. Clone the repository:
 
-   git clone https://github.com/josepinho22/Trabalho-Individual.git
+	git clone https://github.com/josepinho22/Trabalho-Individual.git
 
-2.	Entrar na pasta do projeto:
+
+
+2.	Navigate to the project folder:
 
    cd living-around
 
 
-3.	Abrir o ficheiro principal:
+3.	Open the main file:
 
    open index.html
 
 ⸻
 
-🧩 Melhorias Futuras
-	•	Integração com sistema de reservas online
-	•	Tradução multilíngue (PT / EN / FR)
-	•	Blog dinâmico com CMS (Netlify CMS, Contentful, etc.)
-	•	Área de utilizador para gerir viagens e reservas
+🧩 Future Improvements
+	•	Online booking system
+	•	Multilingual support (EN / PT / FR)
+	•	Dynamic blog with CMS integration
+	•	User area for managing trips and reservations
 
 ⸻
 
@@ -117,10 +108,9 @@ Inclui a citação de Aldous Huxley:
 
 José Pinho
 
-Desenvolvido com paixão por viagens, liberdade e código aberto.
+Developed as part of an academic assignment with a focus on design fidelity, usability, and front-end development best practices.
 
 ⸻
 
-“Viajar é descobrir que todos estão errados sobre outros países.”
+“To travel is to discover that everyone is wrong about other countries.”
 — Aldous Huxley
-
