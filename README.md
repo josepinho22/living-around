@@ -12,26 +12,27 @@ The project features a modern, minimalist design with immersive photography, ref
 ## 🖼️ Preview
 
 👉 **Live demo:**  
-https://josepinho22.github.io/Trabalho-Individual/index.html
+	
+	https://josepinho22.github.io/living-around/index.html
 
 ---
 
+
 ### 📸 Capturas de ecrã
 
-Página inicial:
+**Home Page Overview:**
 
 <img width="1612" height="960" alt="image" src="https://github.com/user-attachments/assets/9b5d2999-346d-4311-8106-432abc55a273" />
 
-Acomodações:
+**Accommodations Section:**
 
 <img width="1612" height="960" alt="image" src="https://github.com/user-attachments/assets/00f25704-a7fb-4b21-b419-7adbeb2dea19" />
 
-Contato:
+**Contact Page:**
 
 <img width="1612" height="960" alt="image" src="https://github.com/user-attachments/assets/a32a0c14-3200-4416-9449-37c8398f5ecd" />
 
-Locais:
-
+**Locations Map:**
 <img width="1612" height="960" alt="image" src="https://github.com/user-attachments/assets/2ccc92ae-211a-43d5-b0d9-7e3eb4dd70d1" />
 
 <img width="1612" height="960" alt="image" src="https://github.com/user-attachments/assets/4a25b4f6-f003-427f-8550-347737183bca" />
@@ -81,18 +82,18 @@ Locais:
 
 1. Clone the repository:
 
-	git clone https://github.com/josepinho22/Trabalho-Individual.git
+	git clone https://github.com/josepinho22/living-around.git
 
 
 
 2.	Navigate to the project folder:
 
-   cd living-around
+   	cd living-around
 
 
 3.	Open the main file:
 
-   open index.html
+   	open index.html
 
 ⸻
 
